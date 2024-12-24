@@ -3,18 +3,13 @@
 # Django based music layer
 
 #### Django Music Player is a simple web application built with Django that allows users to upload, manage, and play music files.
-> 
-![GitHub stars](https://img.shields.io/github/stars/rajaprerak/MusicPlayer) 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/MusicPlayer/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://galvanic-music.herokuapp.com/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 
 
 ## Installation 📦
 ### To install Django Music Player, follow these steps:
 ## 1. Clone this repository:
->'https://github.com/BurhanMohammad/Django-MusicPlayer.git'
+https://github.com/tanushreealugolu/Django-Music-Streaming-App
 ## 2. Navigate to the project directory:
 
 ```bash
@@ -77,12 +72,4 @@
 #### Step 3
 
 - 🔃 Create a new pull request.
-## Creadits :
 
-#### Django Music Player was created by Mohammad Burhan
-
-
-## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
