@@ -1,6 +1,6 @@
 
 
-# Django based music layer
+# Django based music Player
 
 #### Django Music Player is a simple web application built with Django that allows users to upload, manage, and play music files.
 
